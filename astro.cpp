@@ -1,4 +1,4 @@
-#include "common/astro/astro.h"
+#include "astro.h"
 #include <stdint.h>
 #include <stdlib.h>
 #include <math.h>
